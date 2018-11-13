@@ -1,0 +1,28 @@
+{
+    "more_apps": [
+        {
+            "app_id": "superheroes-wallpaper",
+            "name": "Marvel comics",
+            "url": "https://play.google.com/store/apps/details?id=com.pincode.app",
+            "thumbnail": "https://lh3.googleusercontent.com/4k08J_OeK2XozgIn2z3i7-U_N1JbNH_PFQ94xmWPCnobq9HZIKtrp9NERqQdpqI0CQ=s180-rw"
+        },
+        {
+            "app_id": "Indian pincode",
+            "name": "Indian pincode",
+            "url": "https://play.google.com/store/apps/details?id=com.pincode.app",
+            "thumbnail": "https://lh3.googleusercontent.com/DwDo-gjA6AF7Wg4rBaioV0m7-yy071CmWt7lK897fpo4aSgsq8Vx3d1mA47ITqsveA=s180-rw"
+        },
+        {
+            "app_id": "Indian pincode",
+            "name": "Marvel comics",
+            "url": "https://play.google.com/store/apps/details?id=com.pincode.app",
+            "thumbnail": "https://lh3.googleusercontent.com/4k08J_OeK2XozgIn2z3i7-U_N1JbNH_PFQ94xmWPCnobq9HZIKtrp9NERqQdpqI0CQ=s180-rw"
+        },
+        {
+            "app_id": "Indian pincode",
+            "name": "Indian pincode",
+            "url": "https://play.google.com/store/apps/details?id=com.pincode.app",
+            "thumbnail": "https://lh3.googleusercontent.com/DwDo-gjA6AF7Wg4rBaioV0m7-yy071CmWt7lK897fpo4aSgsq8Vx3d1mA47ITqsveA=s180-rw"
+        }
+    ]
+}
