@@ -1,0 +1,181 @@
+ 
+	 
+ {
+    "data": [
+        {
+            "category_name": "Ant Man",
+            "images_path": "comics/images/ant_man/",
+            "total_wallpaper": "123"
+        },
+        {
+            "category_name": "Avengers",
+            "images_path": "comics/images/avengers/",
+            "total_wallpaper": "182"
+        },
+        {
+            "category_name": "Bane",
+            "images_path": "comics/images/bane/",
+            "total_wallpaper": "14"
+        },
+        {
+            "category_name": "Batman",
+            "images_path": "comics/images/batman/",
+            "total_wallpaper": "227"
+        },
+        {
+            "category_name": "Black Widow",
+            "images_path": "comics/images/black_widow/",
+            "total_wallpaper": "27"
+        },
+        {
+            "category_name": "Black Panther",
+            "images_path": "comics/images/black_panther/",
+            "total_wallpaper": "104"
+        },
+        {
+            "category_name": "Cable",
+            "images_path": "comics/images/cable/",
+            "total_wallpaper": "10"
+        },
+        {
+            "category_name": "Captain America",
+            "images_path": "comics/images/captain_america/",
+            "total_wallpaper": "143"
+        },
+        {
+            "category_name": "Captain Marvel",
+            "images_path": "comics/images/captain_marvel/",
+            "total_wallpaper": "9"
+        },
+        {
+            "category_name": "Carnage",
+            "images_path": "comics/images/carnage/",
+            "total_wallpaper": "9"
+        },
+        {
+            "category_name": "Cat Women",
+            "images_path": "comics/images/cat_women/",
+            "total_wallpaper": "30"
+        },
+        {
+            "category_name": "DareDevil",
+            "images_path": "comics/images/dare_devil/",
+            "total_wallpaper": "30"
+        },
+        {
+            "category_name": "Dead Pool",
+            "images_path": "comics/images/dead_pool/",
+            "total_wallpaper": "253"
+        },
+        {
+            "category_name": "Death Stroke",
+            "images_path": "comics/images/death_stroke/",
+            "total_wallpaper": "22"
+        },
+        {
+            "category_name": "Doctor Strange",
+            "images_path": "comics/images/doctor_strange/",
+            "total_wallpaper": "48"
+        },
+        {
+            "category_name": "Enchantress",
+            "images_path": "comics/images/enchantress/",
+            "total_wallpaper": "8"
+        },
+        {
+            "category_name": "Falcon",
+            "images_path": "comics/images/falcon/",
+            "total_wallpaper": "15"
+        },
+        {
+            "category_name": "Fantastic Four",
+            "images_path": "comics/images/fantastic_four/",
+            "total_wallpaper": "33"
+        },
+        {
+            "category_name": "Flash",
+            "images_path": "comics/images/flash/",
+            "total_wallpaper": "98"
+        },
+        {
+            "category_name": "Ghost Rider",
+            "images_path": "comics/images/ghost_rider/",
+            "total_wallpaper": "34"
+        },
+        {
+            "category_name": "Green Lantern",
+            "images_path": "comics/images/green_lantern/",
+            "total_wallpaper": "38"
+        },
+        {
+            "category_name": "Guardians Of The Galaxy",
+            "images_path": "comics/images/guardians_of_the_galaxy/",
+            "total_wallpaper": "100"
+        },
+        {
+            "category_name": "Harley Quinn",
+            "images_path": "comics/images/harley_quinn/",
+            "total_wallpaper": "90"
+        },
+        {
+            "category_name": "Hulk",
+            "images_path": "comics/images/hulk/",
+            "total_wallpaper": "106"
+        },
+        {
+            "category_name": "Ironman",
+            "images_path": "comics/images/ironman/",
+            "total_wallpaper": "218"
+        },
+        {
+            "category_name": "Joker",
+            "images_path": "comics/images/joker/",
+            "total_wallpaper": "111"
+        },
+        {
+            "category_name": "Justice League",
+            "images_path": "comics/images/justice_league/",
+            "total_wallpaper": "55"
+        },
+        {
+            "category_name": "Punisher",
+            "images_path": "comics/images/punisher/",
+            "total_wallpaper": "56"
+        },
+        {
+            "category_name": "Spiderman",
+            "images_path": "comics/images/spiderman/",
+            "total_wallpaper": "220"
+        },
+        {
+            "category_name": "Supergirl",
+            "images_path": "comics/images/supergirl/",
+            "total_wallpaper": "13"
+        },
+        {
+            "category_name": "Superman",
+            "images_path": "comics/images/superman/",
+            "total_wallpaper": "107"
+        },
+        {
+            "category_name": "Thor",
+            "images_path": "comics/images/thor/",
+            "total_wallpaper": "83"
+        },
+        {
+            "category_name": "Venom",
+            "images_path": "comics/images/venom/",
+            "total_wallpaper": "31"
+        },
+        {
+            "category_name": "Wolverine",
+            "images_path": "comics/images/wolverine/",
+            "total_wallpaper": "104"
+        },
+        {
+            "category_name": "Wonder Women",
+            "images_path": "comics/images/wonder_women/",
+            "total_wallpaper": "99"
+        }
+    ]
+}
