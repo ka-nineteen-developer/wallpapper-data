@@ -1,0 +1,51 @@
+ 
+	 
+ {
+    "data": [
+        {
+            "category_name": "Assassin's Creed",
+            "images_path": "wallpaper/assassins_creed/",
+            "total_wallpaper": "25"
+        },
+        {
+            "category_name": "Battlefield",
+            "images_path": "wallpaper/battlefield/",
+            "total_wallpaper": "25"
+        },
+        {
+            "category_name": "Call Of Duty",
+            "images_path": "wallpaper/call_of_duty/",
+            "total_wallpaper": "25"
+        },
+        {
+            "category_name": "Crysis",
+            "images_path": "wallpaper/crysis/",
+            "total_wallpaper": "16"
+        },
+        {
+            "category_name": "Far Cry",
+            "images_path": "wallpaper/far_cry/",
+            "total_wallpaper": "25"
+        },
+        {
+            "category_name": "Fortnite",
+            "images_path": "wallpaper/fortnite/",
+            "total_wallpaper": "25"
+        },
+        {
+            "category_name": "GTA",
+            "images_path": "wallpaper/gta/",
+            "total_wallpaper": "25"
+        },
+        {
+            "category_name": "PUBG",
+            "images_path": "wallpaper/pubg/",
+            "total_wallpaper": "25"
+        },
+        {
+            "category_name": "Watchdogs",
+            "images_path": "wallpaper/watchdogs/",
+            "total_wallpaper": "7"
+        }
+    ]
+}
